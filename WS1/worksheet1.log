@@ -1,0 +1,18 @@
+    1  ls
+    2  ./autorun.sh
+    3  sudo apt update
+    4  sudo apt install -y build-essential linux-headers-$(uname -r)
+    5  sudo apt update
+    6  sudo apt upgrade
+    7  sudo apt install gcc
+    8  sudo apt install make
+    9  clear
+   10  pwd
+   11  cd ~
+   12  cd Desktop/
+   13  ls -latr
+   14  mkdir ws1
+   15  cd ws1
+   16  wget -O out.pdf https://tinyurl.com/yy94jltt
+   17  ls -latr
+   18  history > worksheet1.log
